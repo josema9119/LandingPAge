@@ -18,6 +18,8 @@ const Home = () => {
 					<Cards />
 					<Cards />
 					<Cards />
+					<Cards />
+					<Cards />
 				</div>
 			</div>
 			<div className="row mt-4">

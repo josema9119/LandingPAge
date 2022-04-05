@@ -2,20 +2,9 @@ import React from "react";
 
 const Footer = () => {
 	return (
-		<footer className="text-muted bg-dark pt-2 ">
-			<div className="container">
-				<p className="float-right">
-					<a href="#">Back to top</a>
-				</p>
-				<p>
-					Album example is © Bootstrap, but please download and
-					customize it for yourself!
-				</p>
-				<p>
-					New to Bootstrap? <a href="../../">Visit the homepage</a> or
-					read our{" "}
-					<a href="../../getting-started/">getting started guide</a>.
-				</p>
+		<footer className="text-muted bg-dark pt-2  ">
+			<div className="container d-flex justify-content-center p-4">
+				<h5>CopyRight @ Your Website 2022</h5>
 			</div>
 		</footer>
 	);
